@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Autos blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Diego Cortés`,
+      summary: `Blog dedicado a autos, motos y otras cosas relacionadas.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Blog dedicado a autos, motos y otras cosas relacionadas..`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `dcortes_net`,
     },
   },
   plugins: [
