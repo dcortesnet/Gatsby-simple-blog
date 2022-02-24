@@ -4,7 +4,9 @@
 
 > Github pages
 
-Descripción del proyecto: Blog started oficial realizado con Gatsby para pruebas, subido posteriormente a Github pages URL: https://dcortesnet.github.io/Gastby-simple-blog/
+> Github actions
+
+Descripción del proyecto: Blog started oficial realizado con Gatsby para pruebas, subido posteriormente a Github pages URL: https://dcortesnet.github.io/Gatsby-simple-blog/
 
 ## Acerca de Gatsby
 

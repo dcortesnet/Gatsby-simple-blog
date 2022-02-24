@@ -1,6 +1,6 @@
 {
   "name": "gatsby-starter-blog",
-  "homepage":"https://github.com/dcortesnet/Gastby-simple-blog",
+  "homepage": "https://github.com/dcortesnet/Gatsby-simple-blog",
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
@@ -49,7 +49,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
-    "build": "gatsby build",
+    "build": "gatsby build --prefix-paths",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "gatsby develop",
