@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Autos blog"}},"allMarkdownRemark":{"nodes":[{"excerpt":"En tiempos donde el calentamiento global y el cambio climático son parte de las conversaciones del día a día, hay un tipo de vehículo que…","fields":{"slug":"/que-quiere-decir-que-un-auto-sea-hibrido/"},"frontmatter":{"date":"September 28, 2020","title":"¿Qué quiere decir que un auto sea híbrido?","description":"Económicos y amigables con el medio ambiente. Así son los autos híbridos y acá te contamos cuáles son los mejores."}},{"excerpt":"Algunos prefieran los mecánicos, otros los automáticos. Como sea, la elección de un auto usado siempre es un tema que considera diversas…","fields":{"slug":"/que-tan-bueno-son-los-autos-automaticos/"},"frontmatter":{"date":"September 28, 2020","title":"¿Qué tan buenos son los autos automáticos?","description":"Los autos automáticos poseen ventajas y desventajas, además de algunos mitos que en este artículo ayudaremos a resolver."}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
